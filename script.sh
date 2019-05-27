@@ -9,4 +9,4 @@ ls -ltr
 echo "$Env for $Variable" >> test
 echo "[INFO] GIT Jenkins Integratioon Demo"
 echo "[INFO] POLL SCM Demo"
-echo "[INFO] branch"
+echo "[INFO] BRANCH Demo"
